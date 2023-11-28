@@ -1,0 +1,188 @@
+{"level":30,"time":"2023-11-27T20:30:19.417Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Listening on 60973"}
+{"level":30,"time":"2023-11-27T20:30:19.798Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-27T20:30:19.799Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-27T20:30:19.802Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-27T20:30:19.802Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-27T20:30:19.808Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-11-27T20:30:20.572Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-11-27T20:30:20.577Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-11-27T20:30:20.578Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-11-27T20:30:20.646Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Changed active context"}
+{"level":30,"time":"2023-11-27T20:30:21.194Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Video path: undefined"}
+{"level":30,"time":"2023-11-27T20:30:21.194Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Changed active page"}
+{"level":30,"time":"2023-11-27T20:30:21.742Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method newPage"}
+{"level":30,"time":"2023-11-27T20:30:21.749Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-11-27T20:30:21.750Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2023-11-27T20:30:21.814Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-11-27T20:30:21.823Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method click"}
+{"level":30,"time":"2023-11-27T20:30:21.823Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=a[href=\"/signup\"] in page."}
+{"level":30,"time":"2023-11-27T20:30:21.958Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method click"}
+{"level":30,"time":"2023-11-27T20:30:21.963Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-11-27T20:30:21.963Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2023-11-27T20:30:21.975Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-11-27T20:30:21.982Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-27T20:30:21.982Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2023-11-27T20:30:22.032Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2023-11-27T20:30:22.032Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-27T20:30:22.040Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-11-27T20:30:22.041Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[type=text][placeholder=\"Nome completo\"] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.075Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method fillText"}
+{"level":30,"time":"2023-11-27T20:30:22.079Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-11-27T20:30:22.079Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.110Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method fillText"}
+{"level":30,"time":"2023-11-27T20:30:22.113Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-11-27T20:30:22.113Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[placeholder^=CPF] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.139Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method fillText"}
+{"level":30,"time":"2023-11-27T20:30:22.143Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-11-27T20:30:22.143Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.170Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method fillText"}
+{"level":30,"time":"2023-11-27T20:30:22.173Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method click"}
+{"level":30,"time":"2023-11-27T20:30:22.173Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[value=\"Buscar CEP\"] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.224Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method click"}
+{"level":30,"time":"2023-11-27T20:30:22.230Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.230Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.242Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.242Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.255Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.256Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.265Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.266Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.278Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.278Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.288Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.288Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.302Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.302Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.311Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.311Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.324Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.324Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.334Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.334Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.346Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.346Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.356Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.356Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.369Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.369Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.381Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.381Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.394Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.394Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.403Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.403Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.416Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.416Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.426Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.426Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.439Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.439Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.449Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.449Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.462Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.462Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.472Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.472Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.485Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.485Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.495Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.495Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.507Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.507Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.517Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.517Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.530Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.530Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.539Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.539Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.551Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.552Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.561Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.561Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.573Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.574Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.583Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.583Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.595Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.595Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.604Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.604Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.616Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.616Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.625Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.625Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.637Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.637Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.647Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.647Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.659Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.659Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.668Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.668Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.680Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.680Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.689Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.689Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.701Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.701Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.710Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2023-11-27T20:30:22.710Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.722Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.722Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.740Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressStreet] containing Rua Tomás Fontes"}
+{"level":30,"time":"2023-11-27T20:30:22.740Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.743Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.743Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressDistrict] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.752Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressDistrict] containing Vila Palmares"}
+{"level":30,"time":"2023-11-27T20:30:22.752Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.755Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.755Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[name=addressCityUf] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.764Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved dom property for element css=input[name=addressCityUf] containing Santo André/SP"}
+{"level":30,"time":"2023-11-27T20:30:22.764Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2023-11-27T20:30:22.767Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-11-27T20:30:22.767Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[placeholder=Número] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.787Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method fillText"}
+{"level":30,"time":"2023-11-27T20:30:22.790Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-11-27T20:30:22.790Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[placeholder=Complemento] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.808Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method fillText"}
+{"level":30,"time":"2023-11-27T20:30:22.813Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2023-11-27T20:30:22.991Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method click"}
+{"level":30,"time":"2023-11-27T20:30:22.991Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2023-11-27T20:30:23.056Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method click"}
+{"level":30,"time":"2023-11-27T20:30:23.062Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-11-27T20:30:23.062Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=.swal2-html-container in page."}
+{"level":30,"time":"2023-11-27T20:30:24.403Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-11-27T20:30:24.409Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getText"}
+{"level":30,"time":"2023-11-27T20:30:24.409Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Strict mode is enabled, find Locator with css=.swal2-html-container in page."}
+{"level":30,"time":"2023-11-27T20:30:24.427Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Retrieved text for element css=.swal2-html-container containing Recebemos o seu cadastro e em breve retornaremos o contato."}
+{"level":30,"time":"2023-11-27T20:30:24.427Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getText"}
+{"level":30,"time":"2023-11-27T20:30:24.433Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-11-27T20:30:24.433Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","Take screenshot with options: ":{"path":"C:\\cursos\\QAx\\projects\\walkdog-robot\\log\\browser\\screenshot\\robotframework-browser-screenshot-1.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2023-11-27T20:30:24.840Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-11-27T20:30:24.846Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-27T20:30:24.848Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-27T20:30:24.851Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-27T20:30:24.861Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-27T20:30:24.864Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Changed active context"}
+{"level":30,"time":"2023-11-27T20:30:24.865Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Changing current active page: page=1bfc589d-245e-46a5-9ce0-51ff13054256"}
+{"level":30,"time":"2023-11-27T20:30:24.865Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Changed active page"}
+{"level":30,"time":"2023-11-27T20:30:24.874Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-27T20:30:24.877Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-27T20:30:24.879Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-11-27T20:30:24.879Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-11-27T20:30:24.881Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-11-27T20:30:24.882Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-11-27T20:30:24.885Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Changing current active page: page=1bfc589d-245e-46a5-9ce0-51ff13054256"}
+{"level":30,"time":"2023-11-27T20:30:24.885Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Changed active page"}
+{"level":30,"time":"2023-11-27T20:30:24.891Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-27T20:30:24.893Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-27T20:30:24.895Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Changed active context"}
+{"level":30,"time":"2023-11-27T20:30:24.895Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Changing current active page: page=1bfc589d-245e-46a5-9ce0-51ff13054256"}
+{"level":30,"time":"2023-11-27T20:30:24.895Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Changed active page"}
+{"level":30,"time":"2023-11-27T20:30:24.897Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-11-27T20:30:24.915Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Removed page=6f99ba76-7b3a-4648-8880-5beaa933acf1 from context=25d65b78-0d55-4771-a4f0-fd6428e956d2 page stack"}
+{"level":30,"time":"2023-11-27T20:30:24.959Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-11-27T20:30:24.991Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-27T20:30:24.991Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-11-27T20:30:25.134Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-11-27T20:30:25.433Z","pid":9952,"hostname":"AVELAR-DESK-L8D4621","msg":"End of node method closeAllBrowsers"}
